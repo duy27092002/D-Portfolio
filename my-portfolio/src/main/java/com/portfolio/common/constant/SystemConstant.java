@@ -1,0 +1,47 @@
+package com.portfolio.common.constant;
+
+public class SystemConstant {
+	public static final String ID_PREFIX = "DKiaf";
+	public static final String ABOUT_ME_ID = "DKiaf0001";
+	public static final String WEBSITE_ID = "DKiaf0002";
+	public static final String RESUME_ID = "DKiaf0003";
+	public static final String UPDATE_SUCCESSFUL = "Update successful!";
+	public static final String UNSUCCESSFUL_UPDATE = "Unsuccessful update!";
+	public static final String SUCCESSFUL_INSERT = "Insert successful!";
+	public static final String UNSUCCESSFUL_INSERT = "Unsuccessful insert!";
+	public static final String SUCCESS_ALERT = "success";
+	public static final String DANGER_ALERT = "danger";
+	public static final String CHANGE_INDEX_SUCCESSFULLY = "Change the index position successfully";
+	public static final String CHANGE_INDEX_UNSUCCESSFULLY = "Change the index position unsuccessfully";
+	public static final String IMG_FOLDER = "D:\\portfolio-img\\";
+	public static final String CREATE = "create";
+	public static final String EDIT = "edit";
+	public static final String DUPLICATE_ERR = "This data was existed";
+	public static final String ABOUT_ME_TITLE_DETAILS_PAGE = "My profile";
+	public static final String ABOUT_ME_TITLE_EDIT_PAGE = "Edit profile";
+	public static final String TITLE_OF_CHANGE_PASSWORD_PAGE = "Change password";
+	public static final String MENU_TITLE_LIST_PAGE = "Menu list";
+	public static final String MENU_TITLE_CREATE_PAGE = "Create new menu";
+	public static final String MENU_TITLE_EDIT_PAGE = "Edit menu";
+	public static final String LT_TITLE_LIST_PAGE = "Language & technology";
+	public static final String LT_TITLE_CREATE_PAGE = "Create new language & technology";
+	public static final String LT_TITLE_EDIT_PAGE = "Edit language & technology";
+	public static final String CERTIFICATE_TITLE_LIST_PAGE = "Certificates";
+	public static final String CERTIFICATE_TITLE_CREATE_PAGE = "Add new certificate";
+	public static final String CERTIFICATE_TITLE_EDIT_PAGE = "Edit certificate";
+	public static final String T_TITLE_LIST_PAGE = "Title list";
+	public static final String T_TITLE_CREATE_PAGE = "Create new title";
+	public static final String T_TITLE_EDIT_PAGE = "Edit title";
+	public static final String CHANGE_INDEX_POSITION_PAGE = "Change the index position";
+	public static final String COMPONENT_TITLE_LIST_PAGE = "Components";
+	public static final String COMPONENT_TITLE_CREATE_PAGE = "Create new component";
+	public static final String COMPONENT_TITLE_EDIT_PAGE = "Edit component";
+	public static final String COMPONENT_TITLE_DETAILS_PAGE = "Component details";
+	public static final String PROJECT_TITLE_LIST_PAGE = "List of personal projects";
+	public static final String PROJECT_TITLE_CREATE_PAGE = "Add new project";
+	public static final String PROJECT_TITLE_EDIT_PAGE = "Edit project";
+	public static final String PROJECT_TITLE_DETAILS_PAGE = "Project details";
+	public static final String RESUME_TITLE_DETAILS_PAGE = "Resume details";
+	public static final String RESUME_TITLE_EDIT_PAGE = "Edit resume";
+	public static final String IMAGE_DEFAULT = "things-item-3.png";
+}
